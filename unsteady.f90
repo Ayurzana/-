@@ -66,7 +66,6 @@
     !  double precision, parameter:: Re = 40.0d0
       END MODULE simParam
  
- 
     !	 ========================================================
     !	 The main program, implementing a flow past a cylinder
     !	 ========================================================
